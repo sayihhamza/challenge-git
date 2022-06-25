@@ -20,7 +20,7 @@ How to attempt this challenge:
 
 1) Clone this repo locally
 2) Solve the challenge locally
-3) Create a new repo in your GitHub account and note the git url
+3) Create a new repo in your GitHub account and note the git url.
 4) Set your local origin to the new git url: `git remote set-url origin ${git url}`
 5) Push your solution to the newly set origin.
 
